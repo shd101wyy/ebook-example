@@ -1,6 +1,6 @@
 <!-- ebook
      title: "Alice's Adventures in Wonderland"
-     cover: "http://orig10.deviantart.net/e272/f/2013/255/0/0/alice_in_wonderland_book_cover_by_pannucabaguana-d6m003p.jpg"
+     cover: "/cover.jpg"
 -->
 
 # Preface
@@ -10,7 +10,7 @@ Instructions about how to create ebook can be found [here](https://github.com/sh
 > The content of book is from Lewis Carroll "Alice's Adventures in Wonderland", based on text at https://www.cs.cmu.edu/~rgs/alice-table.html and images from http://www.alice-in-wonderland.net/resources/pictures/alices-adventures-in-wonderland.
 
 Only three chapters of the book are included.   
-It took approximately 8 seconds to generate `ALICE.epub` file
+It took approximately 4 seconds to generate `ALICE.epub` file
 
 
 # Table of Contents
