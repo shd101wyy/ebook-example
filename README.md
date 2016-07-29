@@ -6,4 +6,6 @@ more information about how to create ebook using **Markdown Preview Enhanced** c
 Sample entry file.   
 You can check its [raw file](https://raw.githubusercontent.com/shd101wyy/ebook-example/master/ALICE.md) to get a basic understanding about setting up ebook configuration.
 * **ALICE.epub**  
-Generated epub file
+Generated epub file.
+* **ALICE.html**  
+Generated html file.
