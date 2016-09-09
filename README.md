@@ -7,5 +7,7 @@ Sample entry file.
 You can check its [raw file](https://raw.githubusercontent.com/shd101wyy/ebook-example/master/ALICE.md) to get a basic understanding about setting up ebook configuration.
 * **ALICE.epub**  
 Generated epub file.
+* **ALICE.pdf**  
+Generated pdf file.
 * **ALICE.html**  
 Generated html file.

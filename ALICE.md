@@ -2,6 +2,12 @@
 ebook:
   title: Alice's Adventures in Wonderland
   cover: /cover.jpg
+
+  pdf:
+    paper-size: letter
+    default-font-size: 14
+    header-template: "<span style='color: #6e6e6e;'> _SECTION_ </span>"
+    footer-template: "<span> <center> _PAGENUM_ </center> </span>"
 ---
 
 # Preface
