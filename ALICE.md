@@ -1,5 +1,6 @@
 ---
 ebook:
+  theme: github-light.css
   title: Alice's Adventures in Wonderland
   cover: /cover.jpg
 
